@@ -37,6 +37,4 @@ CLAUDE.md
 boost.json
 auto-imports.d.ts
 components.d.ts
-composer.lock
 opencode.json
-package-lock.json
